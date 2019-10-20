@@ -1,0 +1,16 @@
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\DentistIntern.deps.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\DentistIntern.runtimeconfig.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\DentistIntern.runtimeconfig.dev.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\DentistIntern.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.csprojAssemblyReference.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.RazorAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.RazorAssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.AssemblyInfoInputs.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.AssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.RazorTargetAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\bin\Debug\netcoreapp2.1\DentistIntern.pdb
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\obj\Debug\netcoreapp2.1\DentistIntern.pdb
