@@ -1,0 +1,48 @@
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.deps.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.runtimeconfig.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.runtimeconfig.dev.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.csprojAssemblyReference.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorAssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.AssemblyInfoInputs.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.AssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorTargetAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.pdb
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.pdb
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.deps.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.runtimeconfig.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.runtimeconfig.dev.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.pdb
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.csprojAssemblyReference.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorAssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.AssemblyInfoInputs.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.AssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorTargetAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.pdb
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.deps.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.runtimeconfig.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.runtimeconfig.dev.json
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\bin\Debug\netcoreapp2.1\DentistApp.pdb
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.csprojAssemblyReference.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorAssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.AssemblyInfoInputs.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.AssemblyInfo.cs
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.RazorTargetAssemblyInfo.cache
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.dll
+C:\Users\Aurimas\Desktop\prasided\saitynai\Dentist\DentistIntern\Dentist - Copy (2)\DentistApp\obj\Debug\netcoreapp2.1\DentistApp.pdb
