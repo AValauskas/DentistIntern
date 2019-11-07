@@ -20,6 +20,7 @@
     <PackageReference Include="MySql.Data" Version="8.0.18" />
     <PackageReference Include="MySql.Data.Entity" Version="6.10.9" />
     <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.18" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.1.2" />
   </ItemGroup>
 
 </Project>
