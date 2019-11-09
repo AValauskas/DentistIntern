@@ -24,63 +24,7 @@ namespace DentistApp.Controllers
         {
             _context = context;
         }
-/*
-        [HttpPost("token")]
-        public ActionResult GetToken()
-        {
-            // return Ok("Hello from API");
-            Environment.SetEnvironmentVariable("Test1", "this_is_our_supper_long_security_key");
-            //secure key
-            // string securityKey = "this_is_our_supper_long_security_key";
-            //symetric security key
-            var symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Environment.GetEnvironmentVariable("Test1")));
-            //signing credentials
-            var signingCredentials = new SigningCredentials(symmetricSecurityKey, SecurityAlgorithms.HmacSha256Signature);
 
-            //add claims
-            var claims = new List<Claim>();
-            claims.Add(new Claim(ClaimTypes.Role, "Administrator"));
-            claims.Add(new Claim(ClaimTypes.Role, "reader"));
-            claims.Add(new Claim("Our_Custom_Claim", "Our Custom value"));
-
-            //create token
-            var token = new JwtSecurityToken(
-                issuer: "smesk.in",
-                audience: "readers",
-                expires: DateTime.Now.AddHours(3),
-                signingCredentials: signingCredentials,
-                claims: claims
-                );
-            //return token
-            return Ok(new JwtSecurityTokenHandler().WriteToken(token));
-        }
-        
-        [HttpPost("Register")]
-        public async Task<IActionResult> Register(Lecturer lecturer)
-        {
-
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-
-            // IEnumerable < Lecturer > = lecturers;
-
-            int exist = doExist(lecturer);
-
-            if (exist != 0)
-            {
-                return BadRequest("somethink went wrong");
-            }
-
-            _context.Lecturer.Add(lecturer);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetLecturer", new { id = lecturer.IdLecturer }, lecturer);
-
-        }
-
-        */
 
         [HttpPost("Login")]
         public async Task<IActionResult> Login(Lecturer lecturer)

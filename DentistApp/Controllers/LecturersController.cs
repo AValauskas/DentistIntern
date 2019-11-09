@@ -125,31 +125,6 @@ namespace DentistApp.Controllers
         }
 
 
-
-
-
-        
-
-
-
-
-        /*
-        // POST: api/Lecturers
-        [HttpPost]
-        public async Task<IActionResult> PostLecturer([FromBody] Lecturer lecturer)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-
-            _context.Lecturer.Add(lecturer);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetLecturer", new { id = lecturer.IdLecturer }, lecturer);
-        }
-        */
-        // DELETE: api/Lecturers/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteLecturer([FromRoute] int id)
         {

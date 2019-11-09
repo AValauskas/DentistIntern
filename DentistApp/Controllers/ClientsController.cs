@@ -121,39 +121,6 @@ namespace DentistApp.Controllers
             return pass + user;
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        /*
-        // POST: api/Clients
-        [HttpPost]
-        public async Task<IActionResult> PostClient([FromBody] Client client)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-
-            _context.Client.Add(client);
-            await _context.SaveChangesAsync();
-
-            return CreatedAtAction("GetClient", new { id = client.IdClient }, client);
-        }*/
-
-        // DELETE: api/Clients/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteClient([FromRoute] int id)
         {
